@@ -8,7 +8,7 @@
       "price": "$59.99",
       "rating" : 4,
       "review": "MULTIPLAYER IS THE TIGHTEST AND MOST IMPRESSIVE IT’S EVER FELT, THANKS TO NEXT-GEN CONSOLES!",
-      "user": "- GameStop" 
+      "user": "GameStart" 
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": "$39.99",
       "rating": 2,
       "review": "It could have been better... pretty glitchy in some places",
-      "user": "- Chaq Groosm" 
+      "user": "Chaq Groosim" 
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": "$59.99",
       "rating": 5,
       "review": "Very beautiful game! The graphics are worth the money!",
-      "user": "- Cristian B." 
+      "user": "Cristian Benitez" 
 
     },
     {
@@ -39,7 +39,7 @@
       "price": "$27.99",
       "rating": 3,
       "review": "Not nearly as good as the first one, but it was definetly fun to play!",
-      "user": "- Gemma L." 
+      "user": "Gemma Leon" 
 
     }
   ]
