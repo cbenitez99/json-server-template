@@ -7,7 +7,8 @@
       "platform": "Xbox One",
       "price": "$59.99",
       "rating" : 4,
-      "review": "MULTIPLAYER IS THE TIGHTEST AND MOST IMPRESSIVE IT’S EVER FELT, THANKS TO NEXT-GEN CONSOLES!"
+      "review": "MULTIPLAYER IS THE TIGHTEST AND MOST IMPRESSIVE IT’S EVER FELT, THANKS TO NEXT-GEN CONSOLES!",
+      "user": "- GameStop" 
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "platform": "PC",
       "price": "$39.99",
       "rating": 2,
-      "review": "It could have been better... pretty glitchy in some places"
+      "review": "It could have been better... pretty glitchy in some places",
+      "user": "- Chaq Groosm" 
     },
     {
       "id": 3,
@@ -25,7 +27,9 @@
       "platform": "Nintendo Switch",
       "price": "$59.99",
       "rating": 5,
-      "review": "Very beautiful game! The graphics are worth the money!"
+      "review": "Very beautiful game! The graphics are worth the money!",
+      "user": "- Cristian B." 
+
     },
     {
       "id": 4,
@@ -34,7 +38,9 @@
       "platform": "PS4",
       "price": "$27.99",
       "rating": 3,
-      "review": "Not nearly as good as the first one, but it was definetly fun to play!"
+      "review": "Not nearly as good as the first one, but it was definetly fun to play!",
+      "user": "- Gemma L." 
+
     }
   ]
 }
