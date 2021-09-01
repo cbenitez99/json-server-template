@@ -6,7 +6,7 @@
       "title": "Call of Duty: Black Ops Cold War",
       "platform": "Xbox One",
       "price": "59.99",
-      "rating" : 4,
+      "rating": 4,
       "review": "MULTIPLAYER IS THE TIGHTEST AND MOST IMPRESSIVE IT’S EVER FELT, THANKS TO NEXT-GEN CONSOLES!",
       "user": "GameStart"
     },
@@ -39,6 +39,16 @@
       "rating": 3,
       "review": "Not as good as the first one, but it was definetly fun to play!",
       "user": "Gemma Leon"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Borderlands_2_cover_art.png",
+      "title": "Borderlands 2",
+      "rating": "5",
+      "price": "45.50",
+      "platform": "Xbox ",
+      "review": "Super fun and cool game to play! Recommend to all.",
+      "user": "Branden Ehman",
+      "id": 5
     }
   ]
 }
